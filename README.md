@@ -104,16 +104,16 @@ Upload `raw_log.csv` in the Streamlit dashboard to test predictions.
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](Images/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 ### Predictions
-![Predictions](Images/predictions.png)
+![Predictions](images/predictions.png)
 ## 👤 Author
 
 
 **Adwitiya Rana**  
 - GitHub: https://github.com/AdwitiyaRana  
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/adwitiya-rana-161161286
 
 ---
 
